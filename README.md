@@ -22,15 +22,21 @@ My work goes beyond building interfaces — I enjoy designing complete systems, 
 
 **Frontend**
 
-`Next.js` · `React` · `TypeScript` · `Tailwind CSS` · `Material UI` · `Zustand`
+<p>
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,materialui" alt="Frontend stack" />
+</p>
 
 **Backend**
 
-`NestJS` · `Node.js` · `Express` · `REST APIs`
+<p>
+  <img src="https://skillicons.dev/icons?i=nestjs,nodejs,express" alt="Backend stack" />
+</p>
 
 **Database & Infrastructure**
 
-`PostgreSQL` · `Supabase` · `Prisma` · `MongoDB` · `Cloudflare R2`
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,supabase,prisma,mongodb,cloudflare" alt="Database and infrastructure stack" />
+</p>
 
 **AI & Automation**
 
@@ -38,11 +44,19 @@ My work goes beyond building interfaces — I enjoy designing complete systems, 
 
 **Platforms**
 
-`WordPress` · `WooCommerce` · `Shopify` · `YouCan`
+<p>
+  <img src="https://skillicons.dev/icons?i=wordpress" alt="WordPress" />
+</p>
+
+`WooCommerce` · `Shopify` · `YouCan`
 
 **Development & DevOps**
 
-`Git` · `GitHub Actions` · `CI/CD` · `Docker`
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker" alt="Development and DevOps stack" />
+</p>
+
+`GitHub Actions` · `CI/CD`
 
 ---
 
@@ -65,16 +79,7 @@ Areas I'm exploring and building around:
 
 ### Founder — Yurafy
 
-I'm the founder of **Yurafy**, a digital solutions company focused on building modern, scalable web applications and helping businesses grow through technology.
-
-At Yurafy, I work directly on the engineering and delivery of solutions across:
-
-* Custom web applications and SaaS platforms
-* E-commerce development
-* AI agents and chatbots
-* Business and workflow automation
-* API integrations
-* High-performance, scalable web experiences
+I'm the founder of **Yurafy**, my professional brand for showcasing my work and connecting with clients and collaborators. I build **web applications, SaaS products, e-commerce solutions, AI agents and automation**.
 
 **Official website:** [yurafy.com](https://www.yurafy.com/)
 
